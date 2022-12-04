@@ -45,6 +45,5 @@ int main(){
         startingCol++;
     }
 
-
     return 0;
 }
